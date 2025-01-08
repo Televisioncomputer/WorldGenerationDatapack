@@ -1,0 +1,2 @@
+tp ~ ~ ~
+function worldgen:generatechunk

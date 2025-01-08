@@ -1,0 +1,1 @@
+$fill ~ ~ ~ ~ ~ ~ $(ore) replace stone

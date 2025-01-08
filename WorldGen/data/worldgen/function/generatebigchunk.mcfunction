@@ -1,0 +1,71 @@
+fill ~ -64 ~ ~127 256 ~127 air
+execute positioned ~ ~ ~ run function worldgen:generatechunk
+execute positioned ~16 ~ ~ run function worldgen:generatechunk
+execute positioned ~ ~ ~16 run function worldgen:generatechunk
+execute positioned ~16 ~ ~16 run function worldgen:generatechunk
+
+execute positioned ~32 ~ ~ run function worldgen:generatechunk
+execute positioned ~32 ~ ~16 run function worldgen:generatechunk
+execute positioned ~32 ~ ~32 run function worldgen:generatechunk
+execute positioned ~16 ~ ~32 run function worldgen:generatechunk
+execute positioned ~ ~ ~32 run function worldgen:generatechunk
+
+execute positioned ~48 ~ ~ run function worldgen:generatechunk
+execute positioned ~48 ~ ~16 run function worldgen:generatechunk
+execute positioned ~48 ~ ~32 run function worldgen:generatechunk
+execute positioned ~48 ~ ~48 run function worldgen:generatechunk
+execute positioned ~32 ~ ~48 run function worldgen:generatechunk
+execute positioned ~16 ~ ~48 run function worldgen:generatechunk
+execute positioned ~ ~ ~48 run function worldgen:generatechunk
+
+execute positioned ~64 ~ ~ run function worldgen:generatechunk
+execute positioned ~64 ~ ~16 run function worldgen:generatechunk
+execute positioned ~64 ~ ~32 run function worldgen:generatechunk
+execute positioned ~64 ~ ~48 run function worldgen:generatechunk
+execute positioned ~64 ~ ~64 run function worldgen:generatechunk
+execute positioned ~48 ~ ~64 run function worldgen:generatechunk
+execute positioned ~32 ~ ~64 run function worldgen:generatechunk
+execute positioned ~16 ~ ~64 run function worldgen:generatechunk
+execute positioned ~ ~ ~64 run function worldgen:generatechunk
+
+execute positioned ~80 ~ ~ run function worldgen:generatechunk
+execute positioned ~80 ~ ~16 run function worldgen:generatechunk
+execute positioned ~80 ~ ~32 run function worldgen:generatechunk
+execute positioned ~80 ~ ~48 run function worldgen:generatechunk
+execute positioned ~80 ~ ~64 run function worldgen:generatechunk
+execute positioned ~80 ~ ~80 run function worldgen:generatechunk
+execute positioned ~64 ~ ~80 run function worldgen:generatechunk
+execute positioned ~48 ~ ~80 run function worldgen:generatechunk
+execute positioned ~32 ~ ~80 run function worldgen:generatechunk
+execute positioned ~16 ~ ~80 run function worldgen:generatechunk
+execute positioned ~ ~ ~80 run function worldgen:generatechunk
+
+execute positioned ~96 ~ ~ run function worldgen:generatechunk
+execute positioned ~96 ~ ~16 run function worldgen:generatechunk
+execute positioned ~96 ~ ~32 run function worldgen:generatechunk
+execute positioned ~96 ~ ~48 run function worldgen:generatechunk
+execute positioned ~96 ~ ~64 run function worldgen:generatechunk
+execute positioned ~96 ~ ~80 run function worldgen:generatechunk
+execute positioned ~96 ~ ~96 run function worldgen:generatechunk
+execute positioned ~80 ~ ~96 run function worldgen:generatechunk
+execute positioned ~64 ~ ~96 run function worldgen:generatechunk
+execute positioned ~48 ~ ~96 run function worldgen:generatechunk
+execute positioned ~32 ~ ~96 run function worldgen:generatechunk
+execute positioned ~16 ~ ~96 run function worldgen:generatechunk
+execute positioned ~ ~ ~96 run function worldgen:generatechunk
+
+execute positioned ~112 ~ ~ run function worldgen:generatechunk
+execute positioned ~112 ~ ~16 run function worldgen:generatechunk
+execute positioned ~112 ~ ~32 run function worldgen:generatechunk
+execute positioned ~112 ~ ~48 run function worldgen:generatechunk
+execute positioned ~112 ~ ~64 run function worldgen:generatechunk
+execute positioned ~112 ~ ~80 run function worldgen:generatechunk
+execute positioned ~112 ~ ~96 run function worldgen:generatechunk
+execute positioned ~112 ~ ~112 run function worldgen:generatechunk
+execute positioned ~96 ~ ~112 run function worldgen:generatechunk
+execute positioned ~80 ~ ~112 run function worldgen:generatechunk
+execute positioned ~64 ~ ~112 run function worldgen:generatechunk
+execute positioned ~48 ~ ~112 run function worldgen:generatechunk
+execute positioned ~32 ~ ~112 run function worldgen:generatechunk
+execute positioned ~16 ~ ~112 run function worldgen:generatechunk
+execute positioned ~ ~ ~112 run function worldgen:generatechunk

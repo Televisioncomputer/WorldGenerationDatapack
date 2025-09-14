@@ -4,7 +4,7 @@ A Datapack that replaces Minecraft Default World Generation
 
 ## About
 
-Using a Cubic Noise system I made for a Godot Shader, I made this Datapack to cure my udder bordem
+Using a Value Noise system I made for a Godot Shader, I made this Datapack to cure my udder bordem
 
 ## Installation
 
